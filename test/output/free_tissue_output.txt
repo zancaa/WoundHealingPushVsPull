@@ -1,0 +1,16 @@
+Running 1 test
+Changing directory from '/home/chaste/src/projects/WoundHealingProliferativeHubLeadingEdge/test/' to '/home/chaste/src/'.
+CWD now: /home/chaste/src
+
+
+ ***** TestFreeTissue.hpp *****
+
+
+Entering TestGenerateFreeTissue
+WoundHealing/FreeTissue/LeadingEdgeForce_0
+DEBUG: Timer::GetElapsedTime() = 339.584
+WoundHealing/FreeTissue/LeadingEdgeForce_1
+DEBUG: Timer::GetElapsedTime() = 335.688
+Passed
+OK!
+Chaste warning: in file cell_based/src/simulation/numerical_methods/AbstractNumericalMethod.cpp at line 183: Vertices are moving more than half the CellRearrangementThreshold. This could cause elements to become inverted so the motion has been restricted. Use a smaller timestep to avoid these warnings.
